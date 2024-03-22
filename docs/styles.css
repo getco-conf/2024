@@ -4,7 +4,7 @@ body {
     padding: 0;
     background-color: #f9f9f9;
     color: #333;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 header {
@@ -95,10 +95,10 @@ td {
 }
 
 .page-wrapper {
-    max-width: 50%; /* Adjust as needed */
+    max-width: 60%; /* Adjust as needed */
     margin: auto;    
 }
 
 p, .container li {
-    font-size: 22px; /* Adjust as needed */
+    font-size: 18px; /* Adjust as needed */
 }
