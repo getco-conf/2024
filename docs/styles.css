@@ -102,3 +102,16 @@ td {
 p, .container li {
     font-size: 18px; /* Adjust as needed */
 }
+
+@media only screen and (max-width: 600px) {
+    /* Adjustments for smaller screens */
+    .container {
+        width: 90%; /* Adjust as needed */
+    }
+    p {
+        font-size: 14px; /* Adjust as needed */
+    }
+    .container li {
+        font-size: 14px; /* Adjust as needed */
+    }
+}
