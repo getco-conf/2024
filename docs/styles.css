@@ -111,7 +111,6 @@ p, .container li {
 }
 
 @media only screen and (max-width: 600px) {
-    /* Ajustements pour les écrans plus petits */
     .container {
         width: 90%; /* Adjust as needed */
     }
