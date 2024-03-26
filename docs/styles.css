@@ -30,18 +30,31 @@ nav ul {
 }
 
 nav ul li {
-    margin-right: 20px;
+    margin-right: 40px; /* Adjust as needed */
     display: inline;
 }
 
-nav ul li a {
-    color: #fff;
-    text-decoration: none;
-    padding: 10px;
+/* Set the color and text decoration for normal links */
+a {
+    color: #FF5722; /* Link text color */
+    text-decoration: none; /* Remove underline */
 }
 
-nav ul li a:hover {
-    background-color: #555;
+/* Set the color for links when hovered over */
+a:hover {
+    color: #FF9800; /* Link text color on hover */
+}
+
+
+nav a {
+    color: #FF8800; 
+    text-decoration: none;
+    font-weight: bold; 
+    font-size: 16px; 
+}
+
+nav a:hover {
+    color: #FFC107;
 }
 
 .container {
@@ -90,7 +103,7 @@ td {
 }
 
 .conference-title {
-    color: #FF5733; /* Choose your desired color */
+    color: #FF5733; 
     text-align: center;
 }
 
@@ -104,7 +117,7 @@ p, .container li {
 }
 
 @media only screen and (max-width: 600px) {
-    /* Adjustments for smaller screens */
+    /* Ajustements pour les écrans plus petits */
     .container {
         width: 90%; /* Adjust as needed */
     }
@@ -115,3 +128,4 @@ p, .container li {
         font-size: 14px; /* Adjust as needed */
     }
 }
+
