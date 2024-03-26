@@ -45,16 +45,10 @@ a:hover {
     color: #FF9800; /* Link text color on hover */
 }
 
-
+/* Set the specific styles for links within the nav element */
 nav a {
-    color: #FF8800; 
-    text-decoration: none;
-    font-weight: bold; 
-    font-size: 16px; 
-}
-
-nav a:hover {
-    color: #FFC107;
+    font-weight: bold; /* Apply bold font weight */
+    font-size: 16px; /* Apply font size */
 }
 
 .container {
