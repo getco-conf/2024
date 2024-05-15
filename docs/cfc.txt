@@ -1,0 +1,58 @@
+Apologies for multiple copies of this email; please distribute as you
+see fit.
+
+                   CALL FOR CONTRIBUTIONS
+
+                          GETCO 2024
+               13th International Workshop on
+    Geometric and Topological Methods in Computer Science
+
+                       Tallinn, Estonia
+                        6--7 July 2024
+                  associated with ICALP/LICS
+
+              https://getco-conf.github.io/2024/
+
+IMPORTANT DATES
+
+    Deadline for contribunions: 30 May 2024
+    Author notification: 3 June 2024
+    Registration deadline: 10 June 2024
+    Conference dates: 6-7 July 2024
+
+INVITED AND TUTORIAL SPEAKERS
+
+    Uli Fahrenberg, LRE, EPITA Rennes, France
+    Amar Hadzihasanovic, TalTech, Tallinn, Estonia
+    Jérémy Ledent, IRIF, Université Paris Cité, France
+    Georg Struth, The University of Sheffield, UK
+
+SCOPE
+
+The Geometric and Topological Methods in Computer Science (GETCO)
+conference series focuses on applications of algebraic topology in
+computer science with special emphasis on concurrency, distributed
+computing, networking and other situations related to systems of
+sequential computers that communicate with each other. It is aimed at
+mathematicians and computer scientists working in or interested in
+these subjects, including researchers and graduate students. The aim
+of the conference is to exchange ideas and to initiate or expand
+research collaborations.
+
+This is the 13th incarnation of GETCO which has existed since
+1999. The last two GETCOs were held in 2022 in Paris and in 2023 in
+Aalborg associated with the Nordic Congress of Mathematicians.
+
+We are calling for submission of original, unfinished, already
+published, or otherwise interesting work within the topics of the
+GETCO conference. The submission can be in the form of a poster, an
+abstract, a paper submitted to or published at another conference, or
+in any other format. GETCO has no formal proceedings, but as for
+earlier conferences, we intend to publish a journal special issue with
+revised and extended versions of a selection of the contributions.
+
+Submission is via EasyChair at
+
+    https://easychair.org/conferences/?conf=getco2024
+
+For more information, see https://getco-conf.github.io/2024/
